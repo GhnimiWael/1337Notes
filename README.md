@@ -16,7 +16,7 @@ This repo serves as an extension of my blog, compiling notes, cheatsheets, and r
 - OSINT & Privacy Tools
 - and more ...
 
-## 📌 Content Overview
+## Content Overview
 ```bash
 📦 1337Notes  
 ├── 📂 Pentesting         # Methodology, Cheatsheets, Vuln Exploitation  
@@ -29,7 +29,7 @@ This repo serves as an extension of my blog, compiling notes, cheatsheets, and r
 └── 📂 Resources          # Books, Courses, Useful Links
 ```
 
-## 🔗 Connect & Contribute
+## Connect & Contribute
 - Blog: https://ghnimiwael.github.io/
 - Twitter/X: https://x.com/GhnimiWael
 
