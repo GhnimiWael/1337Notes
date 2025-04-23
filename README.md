@@ -1,4 +1,8 @@
 # 1337Notes :: 0xSEC
+<p align="center">
+    <img width="25%" src="https://i.namu.wiki/i/Oyzo0ZoSbNyx4yRMSitZ-0Ptr98IqJc3_6G12iuaSlaqIuveSYWi5umSIJ5pMauPDZxUtJsWlyBu2WKNTqxo5A.webp"> 
+</p>
+
 This repo serves as an extension of my blog, compiling notes, cheatsheets, and resources across various cybersecurity domains, including:
 
 - Penetration Testing (Web, Network, Mobile, Cloud, etc.)
